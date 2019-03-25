@@ -1,6 +1,8 @@
 # dxc1
 my new project
 
+I am here
+
 Based on seed project `spring-team:spring-rest-seed`
 
 ## Development
